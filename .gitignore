@@ -234,3 +234,14 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+
+# Portable document format
+*.pdf
+
+# Latex files
+*.synctex.gz
+*.dvi
+*.aux
+*.toc
+*.lof
+doc/Requirements.out
